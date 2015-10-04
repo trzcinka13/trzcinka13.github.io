@@ -1,19 +1,16 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Grafik
+  url: /grafik/
 
-- title: Articles
-  url: /articles/
+- title: Zajęcia
+  url: /zajecia/
 
-- title: Blog
-  url: /blog/
+- title: Cennik
+  url: /cennik/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: O nas
+  url: /onas/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
-
-- title: Search
-  url: /search/
+- title: Kontakt
+  url: /kontakt

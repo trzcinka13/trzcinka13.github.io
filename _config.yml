@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: So Simple Theme
-locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
-logo: site-logo.png
-url: //mmistakes.github.io/so-simple-theme
+title: Projekt Joga
+locale: pl-PL
+description: Joga // Pilates // Zdrowy kręgosłup
+logo: 
+url: 
 
 # Jekyll configuration
 
@@ -33,24 +33,24 @@ comments: true
 
 # Site owner
 owner:
-  name: Michael Rose
-  avatar: michael-rose-photo.jpg
-  email: michael@mademistakes.com
-  disqus-shortname: sosimpletheme
-  twitter: mmistakes
-  facebook: michaelrose
-  github: mmistakes
+  name: Anna Białecka
+  avatar: 
+  email: bialeckaanna@outlook.com
+  disqus-shortname: 
+  twitter: 
+  facebook: 
+  github: 
   stackexchange:
   linkedin:
-  instagram: mmistakes
+  instagram: 
   flickr:
-  tumblr: mademistakes
+  tumblr: 
   pinterest:
   weibo:
   google:
-    plus: MichaelRoseDesign
+    plus: 
     analytics: UA-2011187-2
     verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 7855747535
+    ad-client: 
+    ad-slot: 
   bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
